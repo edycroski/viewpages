@@ -1,5 +1,5 @@
 {
-    "name": "delatbabel/viewpages",
+    "name": "edycroski/viewpages",
     "description": "Support rendering/view of Laravel pages and templates from a database.",
     "keywords": ["laravel", "view", "render", "cms"],
     "license": "MIT",
