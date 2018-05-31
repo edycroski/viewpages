@@ -33,14 +33,14 @@ from a model object but is no longer maintained.
 Add the package using composer from the command line:
 
 ```
-    composer require delatbabel/viewpages
+    composer require edycroski/viewpages
 ```
 
 Alternatively, pull the package in manually by adding these lines to your composer.json file:
 
 ```
     "require": {
-        "delatbabel/viewpages": "~1.0"
+        "edycroski/viewpages": "~1.0"
     },
 ```
 
